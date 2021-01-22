@@ -37,7 +37,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/www.kraftfuttermischwerk.de\/wa\/am_wolkenberg_instrumental.mp3"
+                 "value":"sounds\/wolken.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

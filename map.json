@@ -37,7 +37,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"sounds\/wolken.mp3"
+                 "value":"audio\/wolken.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
